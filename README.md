@@ -1,9 +1,4 @@
 # Theo Reaves
-2615 Oakmont Cove
-Hernando, Mississippi, 38632
-901-359-0494
-theo.reaves@gmail.com
-linkedin.com/in/theoreaves
 
 ### Computer Skills
 * Languages: PHP, ASP, Java Script, Visual Basic, COBOL, C, RPG, SQL
@@ -13,7 +8,7 @@ linkedin.com/in/theoreaves
 * Frameworks: CodeIgniter, Laravel, jQuery, Vue, Aspin, TailwindCSS
 
 ### Work Experience
-### Application Data Systems, Inc. Hernando MS
+### Application Data Systems, Inc. Southaven MS
 Director 
 CAD Software Development 
 October 1995 - Present 
