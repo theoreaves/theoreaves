@@ -8,14 +8,20 @@
 * Frameworks: CodeIgniter, Laravel, jQuery, Vue, Aspin, TailwindCSS
 
 ### Work Experience
+### TailorBuilt Solutions, LLC
+Owner/Member
+October 2021 - Present
+
+Started a company developing custom built softare.  Our moto: Don’t let your software dictate how your business runs. Let your business dictate how your software works.  
+
 ### Application Data Systems, Inc. Southaven MS
 Director 
 CAD Software Development 
-October 1995 - Present 
+October 1995 - October 2021 
 
 Develop, maintain, train and support Public Safety Software.
 
-My current responsibility is our Computer Aided Dispatch (CAD) software. I developed our current CAD Software in PHP using CodeIgniter Framework connected to a MySQL Database.  For phase one,  portions of CAD were still maintained in COBOL programming for various reasons. I developed routines for PHP to communicate with Linux message queues over TCP_IP, which the COBOL utilizes for internal messaging. In moving the software to a web based environment, it needed to keep up with 911 calls and Police_Fire equipment real-time. I used AJAX to do this (Prototype java script library). This gave us the ability to communicate with the database and keep the user’s screen updated with the latest information as it becomes available.  We also integrated ArcGIS REST Services to include maps for users to see both live and historical call info as well as live GPS data.  Other interfaces include Priority Dispatch ProQA softeware, Power Phone,  email interfaces to send call information to phones and pagers, interface to 911 CADI data.
+My last responsibility was the Computer Aided Dispatch (CAD) software. I developed our current CAD Software in PHP using CodeIgniter Framework connected to a MySQL Database.  For phase one,  portions of CAD were still maintained in COBOL programming for various reasons. I developed routines for PHP to communicate with Linux message queues over TCP_IP, which the COBOL utilizes for internal messaging. In moving the software to a web based environment, it needed to keep up with 911 calls and Police_Fire equipment real-time. I used AJAX to do this (Prototype java script library). This gave us the ability to communicate with the database and keep the user’s screen updated with the latest information as it becomes available.  We also integrated ArcGIS REST Services to include maps for users to see both live and historical call info as well as live GPS data.  Other interfaces include Priority Dispatch ProQA softeware, Power Phone,  email interfaces to send call information to phones and pagers, interface to 911 CADI data.
 
 For the second phase, the legacy COBOL parts were replaced with web-based components.  We also moved from AJAX polling calls to true web sockets for communication.  
 
