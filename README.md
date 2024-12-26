@@ -5,7 +5,7 @@
 * Databases: MySQL, PostgreSQL, Microsoft SQL Server, Oracle, SQLite
 * Operating Systems: Windows, Linux, UNIX, OS X, iOS, Android
 * Software: ArcGIS Software, Microsoft Office, CyberScience
-* Frameworks: CodeIgniter, Laravel, jQuery, Vue, Aspin, TailwindCSS
+* Frameworks: Laravel, CodeIgniter, Livewire, Alpine, jQuery, Vue, Aspin, TailwindCSS
 
 ### Work Experience
 ### TailorBuilt Solutions, LLC
